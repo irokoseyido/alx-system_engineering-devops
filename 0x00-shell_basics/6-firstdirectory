@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir tmp/dir1
+mkdir -p tmp/dir1
